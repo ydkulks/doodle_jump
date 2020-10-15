@@ -1,0 +1,22 @@
+.grid{                                   /* '.' represents class */
+    background-image:url("1_theme/bg.jpg");
+    width: 400px;
+    height: 600px;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+}
+.doodler{
+    width: 65px;
+    height: 80px;
+    background-image:url("1_theme/download.jpeg");
+    background-size:75px;
+    position: absolute;
+}
+.platform{
+    width:85px ;
+    height:15px ;
+    background-image:url("1_theme/plat.png");
+    background-position: center;
+    position: absolute;
+}
